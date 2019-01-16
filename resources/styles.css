@@ -10,3 +10,11 @@
   height: 100%;
   fill: white;
 }
+#timer {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 2%;
+  y: 10%;
+  fill: #45D40C;
+}
